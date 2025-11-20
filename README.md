@@ -4,8 +4,8 @@ My implementation for the classic [Titanic Kaggle competition](https://www.kaggl
 
 ## Project Structure
 
-- **DRAFT.ipynb**: Exploratory data analysis, model experimentation, and development process with notes
-- **RES.ipynb**: Final organized implementation with optimized models, transformers, and best parameters
+- **Titanic_DRAFT.ipynb**: Exploratory data analysis, model experimentation, and development process with notes
+- **RESULT.ipynb**: Final organized implementation with optimized models, transformers, and best parameters
 
 ## Models Explored
 
